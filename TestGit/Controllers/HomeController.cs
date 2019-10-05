@@ -13,6 +13,7 @@ namespace TestGit.Controllers
         //Added simple comment to the controller for test reason.
         public IActionResult Index()
         {
+            //added comment in to the Index action method
             return View();
         }
 
