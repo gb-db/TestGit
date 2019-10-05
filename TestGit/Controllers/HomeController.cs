@@ -10,6 +10,7 @@ namespace TestGit.Controllers
 {
     public class HomeController : Controller
     {
+        //Added simple comment to the controller for test reason.
         public IActionResult Index()
         {
             return View();
